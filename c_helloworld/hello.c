@@ -6,7 +6,6 @@ int main()
         int b = 20;
 
         int sum = a+b;
-        
 
         printf("a + b = %d \n", sum);
 
